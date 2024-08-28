@@ -7,7 +7,7 @@ image = "/images/3s.webp"
 imageBig = "/images/3b.webp"
 categories = ["general", "life", "javascript"]
 authors = ["Some Joe"]
-avatar = "../../images/avatar.webp" 
+avatar = "images/avatar.webp" 
 +++
 
 Test Content

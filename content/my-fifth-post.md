@@ -3,11 +3,11 @@ title = 'My Fifth Post My Fifth Post My Fifth Post'
 date = 2024-08-27T18:02:05-07:00
 draft = false
 description = "Once again. A description. "
-image = "../../images/5s.webp"
-imageBig = "../../images/5b.webp"
+image = "images/5s.webp"
+imageBig = "images/5b.webp"
 categories = ["general", "life", "coding"]
 authors = ["The Admin"]
-avatar = "../../images/avatar.webp" 
+avatar = "images/avatar.webp" 
 +++
 Notice the paragraph spaces?   A css
 ```css
