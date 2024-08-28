@@ -7,7 +7,7 @@ image = "/images/coding_200.webp"
 imageBig = "/images/coding_640.webp"
 categories = ["general", "coding", "VSCode"]
 authors = ["Admin"]
-avatar = "/images/avatar.webp" 
+avatar = "../../static/images/avatar.webp" 
 +++
 
 # Visual Studio Code - Shortcut 

@@ -7,7 +7,7 @@ image = "/images/5s.webp"
 imageBig = "/images/5b.webp"
 categories = ["general", "life", "coding"]
 authors = ["The Admin"]
-avatar = "/images/avatar.webp" 
+avatar = "../../static/images/avatar.webp" 
 +++
 Notice the paragraph spaces?   A css
 ```css

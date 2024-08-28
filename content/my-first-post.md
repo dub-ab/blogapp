@@ -7,7 +7,7 @@ image = "/images/1s.webp"
 imageBig = "/images/1b.webp"
 categories = ["general", "travel", "culture", "social", "popularity", "hip"]
 authors = ["The Admin"]
-avatar = "/images/avatar.webp" 
+avatar = "../../static/images/avatar.webp" 
 +++
 
 Test Content
