@@ -3,11 +3,11 @@ title = 'Visual Studio Code Shortcut Collapse All Files in Explorer'
 date = 2024-08-28T09:03:01-07:00
 draft = false
 description = "A post helping to remind me how to collapse all files in the VSCode explorer window."
-image = "/images/coding_200.webp"
-imageBig = "/images/coding_640.webp"
+image = "../../images/coding_200.webp"
+imageBig = "../../images/coding_640.webp"
 categories = ["general", "coding", "VSCode"]
 authors = ["Admin"]
-avatar = "../../static/images/avatar.webp" 
+avatar = "../../images/avatar.webp" 
 +++
 
 # Visual Studio Code - Shortcut 
