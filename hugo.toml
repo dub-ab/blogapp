@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Moshire.Net'
+
+paginate = 4
+
+[params]
+    description = "The fastest blogs are powered by Hugo"
+    dateFormat = "Jan 2, 2006"
+
+[taxonomies]
+    category = "categories"
+    author = "authors"

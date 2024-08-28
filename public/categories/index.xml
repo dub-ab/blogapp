@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Moshire.Net</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on Moshire.Net</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Aug 2024 09:03:01 -0700</lastBuildDate>
+    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding</title>
+      <link>https://example.org/categories/coding/</link>
+      <pubDate>Wed, 28 Aug 2024 09:03:01 -0700</pubDate>
+      <guid>https://example.org/categories/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>https://example.org/categories/general/</link>
+      <pubDate>Wed, 28 Aug 2024 09:03:01 -0700</pubDate>
+      <guid>https://example.org/categories/general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VSCode</title>
+      <link>https://example.org/categories/vscode/</link>
+      <pubDate>Wed, 28 Aug 2024 09:03:01 -0700</pubDate>
+      <guid>https://example.org/categories/vscode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>https://example.org/categories/life/</link>
+      <pubDate>Tue, 27 Aug 2024 18:02:05 -0700</pubDate>
+      <guid>https://example.org/categories/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>https://example.org/categories/css/</link>
+      <pubDate>Tue, 27 Aug 2024 18:01:55 -0700</pubDate>
+      <guid>https://example.org/categories/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>https://example.org/categories/html/</link>
+      <pubDate>Tue, 27 Aug 2024 18:01:55 -0700</pubDate>
+      <guid>https://example.org/categories/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>https://example.org/categories/javascript/</link>
+      <pubDate>Tue, 27 Aug 2024 18:01:45 -0700</pubDate>
+      <guid>https://example.org/categories/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Database</title>
+      <link>https://example.org/categories/database/</link>
+      <pubDate>Tue, 27 Aug 2024 18:01:36 -0700</pubDate>
+      <guid>https://example.org/categories/database/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Node.js</title>
+      <link>https://example.org/categories/node.js/</link>
+      <pubDate>Tue, 27 Aug 2024 18:01:36 -0700</pubDate>
+      <guid>https://example.org/categories/node.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Queries</title>
+      <link>https://example.org/categories/queries/</link>
+      <pubDate>Tue, 27 Aug 2024 18:01:36 -0700</pubDate>
+      <guid>https://example.org/categories/queries/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>https://example.org/categories/react/</link>
+      <pubDate>Tue, 27 Aug 2024 18:01:36 -0700</pubDate>
+      <guid>https://example.org/categories/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Culture</title>
+      <link>https://example.org/categories/culture/</link>
+      <pubDate>Tue, 27 Aug 2024 18:01:35 -0700</pubDate>
+      <guid>https://example.org/categories/culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hip</title>
+      <link>https://example.org/categories/hip/</link>
+      <pubDate>Tue, 27 Aug 2024 18:01:35 -0700</pubDate>
+      <guid>https://example.org/categories/hip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Popularity</title>
+      <link>https://example.org/categories/popularity/</link>
+      <pubDate>Tue, 27 Aug 2024 18:01:35 -0700</pubDate>
+      <guid>https://example.org/categories/popularity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social</title>
+      <link>https://example.org/categories/social/</link>
+      <pubDate>Tue, 27 Aug 2024 18:01:35 -0700</pubDate>
+      <guid>https://example.org/categories/social/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>https://example.org/categories/travel/</link>
+      <pubDate>Tue, 27 Aug 2024 18:01:35 -0700</pubDate>
+      <guid>https://example.org/categories/travel/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

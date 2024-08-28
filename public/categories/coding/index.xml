@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding on Moshire.Net</title>
+    <link>https://example.org/categories/coding/</link>
+    <description>Recent content in Coding on Moshire.Net</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Aug 2024 09:03:01 -0700</lastBuildDate>
+    <atom:link href="https://example.org/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visual Studio Code Shortcut Collapse All Files in Explorer</title>
+      <link>https://example.org/visual-studio-code-shortcut-collapse-all-files-in-explorer/</link>
+      <pubDate>Wed, 28 Aug 2024 09:03:01 -0700</pubDate>
+      <guid>https://example.org/visual-studio-code-shortcut-collapse-all-files-in-explorer/</guid>
+      <description>Visual Studio Code - Shortcut Collapse all files in explorer I wanted a keyboard shortcut to collapse the open folders in the VSCode Explorer and ctrl + left-arrow wasnt working.&#xA;To examine all VSCode keyboard shortcuts, use:&#xA;ctrl + K ctrl + S&#xA;Stackoverflow pointed the way with the answer provided by user Fluous. He says that the left-arrow shortcut only works when the Explorer window has the focus. Therefore, Fluous suggests, combine two standard shortcuts to get the desired behaviour.</description>
+    </item>
+    <item>
+      <title>My Fifth Post My Fifth Post My Fifth Post</title>
+      <link>https://example.org/my-fifth-post/</link>
+      <pubDate>Tue, 27 Aug 2024 18:02:05 -0700</pubDate>
+      <guid>https://example.org/my-fifth-post/</guid>
+      <description>Notice the paragraph spaces? A css&#xA;&amp;lt;p&amp;gt; tag is created every time there is a carriage return in the Markdown page.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Dorothy followed her through many of the beautiful rooms in her castle.&#xA;The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.</description>
+    </item>
+  </channel>
+</rss>
